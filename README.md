@@ -27,3 +27,5 @@ The goal of this analysis was to explore the data, clean it, and generate insigh
 ## ✨ About Me
 I am a data science aspirant currently learning machine learning and practicing EDA.
 This project is part of my practice and portfolio building.
+
+link- https://nbviewer.org/github/roy-tanmay/Zomato-EDA/blob/main/zomato.ipynb
