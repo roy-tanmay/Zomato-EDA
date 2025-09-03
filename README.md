@@ -29,4 +29,6 @@ I am a data science aspirant currently learning machine learning and practicing 
 This project is part of my practice and portfolio building.
 
 link- https://nbviewer.org/github/roy-tanmay/Zomato-EDA/blob/main/zomato.ipynb
+
 linkedin - www.linkedin.com/in/tanmay-roy-
+
